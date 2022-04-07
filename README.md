@@ -1,3 +1,3 @@
-# Site Ada - Desafio da Programaria:woman
-Site construido com HTML/JavaScript.
+# Site Ada - Desafio da Programaria :woman:
+Contrução do Site em HTML/JavaScript
 - Mulheres na Programação.
