@@ -1,3 +1,3 @@
-# Site Ada - Desafio da Programaria :woman:
-Contrução do Site em HTML/JavaScript
-- Mulheres na Programação.
+# Site Ada Lovelace - Desafio da Programaria 👩‍💻
+Contrução do site em HTML/JavaScript
+- Primeiras mulheres n a Programação.
